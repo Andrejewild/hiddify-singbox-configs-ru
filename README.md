@@ -1,6 +1,6 @@
 # ⚡ megavpn (мега впн) — hiddify-singbox-configs-ru | Официальный бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса megavpn (мега впн).** Обновлено: `2026-10-24 14:13 MSK`
+**Официальное зеркало российского сервиса megavpn (мега впн).** Обновлено: `2026-10-24 15:18 MSK`
 
 ### 🚀 Подключить все 100+ серверов и Обход Белых Списков бесплатно:
 👉 **[Открыть официальный бот megavpn (@vpnsmegabot)](https://t.me/vpnsmegabot)**
@@ -37,22 +37,22 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios#13%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#14%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari#15%20%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
-trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=chrome#16%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
-trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge#17%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
-trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=firefox#18%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&allowInsecure=1&sni=47.250.84.25&type=tcp&alpn=&fp=android#16%20%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&allowInsecure=1&sni=47.250.84.25&type=tcp&alpn=&fp=qq#17%20%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&allowInsecure=1&sni=47.250.84.25&type=tcp&alpn=&fp=safari#18%20%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D%20%7C%20megavpn%20%40vpnsmegabot
 ```
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (24.10.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-24102026-10-24-2)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (24.10.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-24102026-10-24)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (24.10.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-24102026-10-24)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (24.10.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-24102026-10-24)
 - [Бесплатная подписка Happ Proxy и v2rayNG — 100+ серверов (23.10.2026)](https://telegra.ph/Besplatnaya-podpiska-Happ-Proxy-i-v2rayNG--100-serverov-23102026-10-23)
 - [Свежие конфиги Hiddify, Sing-box и NekoBox для ПК и телефона (22.10.2026)](https://telegra.ph/Svezhie-konfigi-Hiddify-Sing-box-i-NekoBox-dlya-PK-i-telefona-22102026-10-22)
-- [Рабочие ключи VLESS Reality и обход Белых Списков (21.10.2026)](https://telegra.ph/Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-21102026-10-21)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [c-net](https://paste.c-net.org/SolitarySomehow)
+- [paste.rs](https://paste.rs/z06Gh)
 - [c-net](https://paste.c-net.org/JeopardyVaguely)
 - [paste.rs](https://paste.rs/cZ9kQ)
 - [c-net](https://paste.c-net.org/MistrialTwine)
-- [c-net](https://paste.c-net.org/AerialMontreal)
-- [paste.rs](https://paste.rs/UUFow)
