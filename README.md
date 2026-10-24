@@ -1,6 +1,6 @@
 # ⚡ megavpn (мега впн) — hiddify-singbox-configs-ru | Официальный бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса megavpn (мега впн).** Обновлено: `2026-10-24 13:09 MSK`
+**Официальное зеркало российского сервиса megavpn (мега впн).** Обновлено: `2026-10-24 13:18 MSK`
 
 ### 🚀 Подключить все 100+ серверов и Обход Белых Списков бесплатно:
 👉 **[Открыть официальный бот megavpn (@vpnsmegabot)](https://t.me/vpnsmegabot)**
@@ -43,6 +43,7 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 ```
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (24.10.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-24102026-10-24)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (24.10.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-24102026-10-24)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (24.10.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-24102026-10-24)
 - [Бесплатная подписка Happ Proxy и v2rayNG — 100+ серверов (23.10.2026)](https://telegra.ph/Besplatnaya-podpiska-Happ-Proxy-i-v2rayNG--100-serverov-23102026-10-23)
@@ -50,9 +51,8 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 - [Рабочие ключи VLESS Reality и обход Белых Списков (21.10.2026)](https://telegra.ph/Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-21102026-10-21)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [c-net](https://paste.c-net.org/JeopardyVaguely)
+- [paste.rs](https://paste.rs/cZ9kQ)
 - [c-net](https://paste.c-net.org/MistrialTwine)
 - [c-net](https://paste.c-net.org/AerialMontreal)
 - [paste.rs](https://paste.rs/UUFow)
-- [termbin.com](https://termbin.com/e7f9i
-)
-- [c-net.org](https://paste.c-net.org/InhaleHaystack)
