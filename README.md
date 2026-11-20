@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-20 04:23 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-20 05:26 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@tenet.ultraveltrion.cyou:443?type=x
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (20.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-20112026-11-20)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (19.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-19112026-11-19-2)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (19.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-19112026-11-19)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (14.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-14112026-11-14)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (13.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-13112026-11-13)
 - [мега впн (megavpn) в Телеграм — Бесплатная подписка Happ и Hiddify (12.11.2026)](https://telegra.ph/mega-vpn-megavpn-v-Telegram--Besplatnaya-podpiska-Happ-i-Hiddify-12112026-11-12)
-- [мега впн (megavpn) в Телеграм — Бесплатная подписка Happ и Hiddify (11.11.2026)](https://telegra.ph/mega-vpn-megavpn-v-Telegram--Besplatnaya-podpiska-Happ-i-Hiddify-11112026-11-11)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/QXKKz)
 - [paste.rs](https://paste.rs/huzJq)
 - [c-net](https://paste.c-net.org/EmptyPaste)
 - [paste.rs](https://paste.rs/Y52GN)
-- [c-net](https://paste.c-net.org/EmptyPaste)
 - [c-net](https://paste.c-net.org/EmptyPaste)
