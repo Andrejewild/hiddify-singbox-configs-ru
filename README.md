@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-22 06:37 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-22 07:39 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vks1.grafna.shop:443?type=xhttp&sec
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (22.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-22112026-11-22-2)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (22.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-22112026-11-22)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (21.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-21112026-11-21-3)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (21.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-21112026-11-21-2)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (21.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-21112026-11-21)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (20.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-20112026-11-20)
-- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (20.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-20112026-11-20-2)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/M57kz)
 - [paste.rs](https://paste.rs/APtVW)
 - [paste.rs](https://paste.rs/3UvY9)
 - [paste.rs](https://paste.rs/kSYiS)
 - [paste.rs](https://paste.rs/cwLCO)
-- [paste.rs](https://paste.rs/iBnI0)
