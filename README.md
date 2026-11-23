@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-23 07:46 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-23 08:48 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@vks2.grafna.shop:443?type=xhttp&sec
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23-2)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23)
 - [мега впн (megavpn) в Телеграм — Бесплатная подписка Happ и Hiddify (22.11.2026)](https://telegra.ph/mega-vpn-megavpn-v-Telegram--Besplatnaya-podpiska-Happ-i-Hiddify-22112026-11-22)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (22.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-22112026-11-22-2)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (22.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-22112026-11-22)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (21.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-21112026-11-21-3)
-- [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (21.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-21112026-11-21-2)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/n672l)
 - [paste.rs](https://paste.rs/v4dUe)
 - [paste.rs](https://paste.rs/IUKmC)
 - [paste.rs](https://paste.rs/M57kz)
 - [paste.rs](https://paste.rs/APtVW)
-- [paste.rs](https://paste.rs/3UvY9)
