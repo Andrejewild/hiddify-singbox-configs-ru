@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-24 08:58 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-24 10:00 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://ffc83d95-6d95-436c-8dd9-3cfd587251ea@231ccd11c72e7354.topology.gslb.yccd
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (24.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-24112026-11-24)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (24.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-24112026-11-24)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23-3)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23-2)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23)
 - [мега впн (megavpn) в Телеграм — Бесплатная подписка Happ и Hiddify (22.11.2026)](https://telegra.ph/mega-vpn-megavpn-v-Telegram--Besplatnaya-podpiska-Happ-i-Hiddify-22112026-11-22)
-- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (22.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-22112026-11-22-2)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/85zxA)
 - [paste.rs](https://paste.rs/JoClf)
 - [paste.rs](https://paste.rs/PYb78)
 - [paste.rs](https://paste.rs/n672l)
 - [paste.rs](https://paste.rs/v4dUe)
-- [paste.rs](https://paste.rs/IUKmC)
