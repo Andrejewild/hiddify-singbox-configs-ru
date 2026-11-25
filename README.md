@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-25 10:17 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-25 11:19 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://14bd6017-654e-4bfb-9c0a-f7799aaf115c@231ccd11c72e7354.topology.gslb.yccd
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (25.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-25112026-11-25)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (25.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-25112026-11-25)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (24.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-24112026-11-24)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (24.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-24112026-11-24)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (24.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-24112026-11-24)
 - [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23-3)
-- [megavpn (@vpnsmegabot): Рабочие ключи VLESS Reality и обход Белых Списков (23.11.2026)](https://telegra.ph/megavpn-vpnsmegabot-Rabochie-klyuchi-VLESS-Reality-i-obhod-Belyh-Spiskov-23112026-11-23-2)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/RRLGd)
 - [paste.rs](https://paste.rs/HqxyP)
 - [paste.rs](https://paste.rs/DJotc)
 - [paste.rs](https://paste.rs/85zxA)
 - [paste.rs](https://paste.rs/JoClf)
-- [paste.rs](https://paste.rs/PYb78)
