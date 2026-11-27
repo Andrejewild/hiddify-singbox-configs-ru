@@ -1,6 +1,6 @@
 # ⚡ mega vpn (мега впн) — hiddify-singbox-configs-ru | официальный сайт и бот @vpnsmegabot
 
-**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-27 00:06 MSK`
+**Официальное зеркало российского сервиса mega vpn (мега впн).** Обновлено: `2026-11-27 01:08 MSK`
 
 ### 🚀 Подключить все 100+ серверов и обход белых списков бесплатно:
 🌐 **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
@@ -46,16 +46,16 @@ vless://aba7e731-72aa-427e-ba2f-123477fc2887@api.oblachnyservis.cc:443?type=tcp&
 - **[Официальный сайт mega vpn (мега впн)](https://my-vpn.click/)**
 
 ### 📚 Официальные статьи megavpn (мега впн) в Telegraph:
+- [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (27.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-27112026-11-27)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (26.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-26112026-11-26)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (26.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-26112026-11-26)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (25.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-25112026-11-25-2)
 - [megavpn (мега впн) — Официальный Telegram-бот @vpnsmegabot и рабочие ключи VLESS (25.11.2026)](https://telegra.ph/megavpn-mega-vpn--Oficialnyj-Telegram-bot-vpnsmegabot-i-rabochie-klyuchi-VLESS-25112026-11-25)
 - [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (25.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-25112026-11-25)
-- [Скачать megavpn (мега впн) на iPhone, Android и ПК — 100+ серверов бесплатно (24.11.2026)](https://telegra.ph/Skachat-megavpn-mega-vpn-na-iPhone-Android-i-PK--100-serverov-besplatno-24112026-11-24)
 
 ### 🌐 Зеркала конфигураций megavpn:
+- [paste.rs](https://paste.rs/F4I1O)
 - [paste.rs](https://paste.rs/9cncQ)
 - [paste.rs](https://paste.rs/gVmpr)
 - [paste.rs](https://paste.rs/SDedQ)
 - [paste.rs](https://paste.rs/RRLGd)
-- [paste.rs](https://paste.rs/HqxyP)
